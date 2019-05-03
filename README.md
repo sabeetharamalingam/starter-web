@@ -6,7 +6,10 @@ This a simple project to show how git and github is used together.
 fjwgfiuwfbjbefiuhf
 
 ## Purpose
+jhwbcdhwfjhkwebfjkbdf
 
 ## deployment
+
+whebfwibfbjhvndkjhvjwefhbcsbcjk
 
 ##How to contribute
